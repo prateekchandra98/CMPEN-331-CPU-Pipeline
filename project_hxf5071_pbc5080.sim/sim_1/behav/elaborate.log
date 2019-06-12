@@ -1,0 +1,22 @@
+Vivado Simulator 2016.3
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.3/bin/unwrapped/win64.o/xelab.exe -wto 4c973f57de7440b2bbb09770db715974 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_bench_behav xil_defaultlib.test_bench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-426] cannot find port w_MUX_32_out_Output on this module [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v:34]
+ERROR: [VRFC 10-426] cannot find port PC on this module [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v:37]
+ERROR: [VRFC 10-426] cannot find port IF_ID on this module [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v:38]
+ERROR: [VRFC 10-426] cannot find port ID_EXE on this module [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v:39]
+ERROR: [VRFC 10-426] cannot find port EXE_MEM on this module [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v:40]
+ERROR: [VRFC 10-426] cannot find port MEM_WB on this module [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v:41]
+ERROR: [VRFC 10-426] cannot find port wMUXoutOutput on this module [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v:42]
+ERROR: [VRFC 10-426] cannot find port w_MUX_32_out_Output on this module [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v:43]
+WARNING: [VRFC 10-1783] select index 32 into dataMemory is out of bounds [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:74]
+WARNING: [VRFC 10-1783] select index 33 into dataMemory is out of bounds [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:75]
+WARNING: [VRFC 10-1783] select index 34 into dataMemory is out of bounds [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:76]
+WARNING: [VRFC 10-1783] select index 35 into dataMemory is out of bounds [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:77]
+WARNING: [VRFC 10-1783] select index 36 into dataMemory is out of bounds [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:79]
+WARNING: [VRFC 10-1783] select index 37 into dataMemory is out of bounds [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:80]
+WARNING: [VRFC 10-1783] select index 38 into dataMemory is out of bounds [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:81]
+WARNING: [VRFC 10-1783] select index 39 into dataMemory is out of bounds [C:/Users/Harrison/Documents/Penn State UP/Semester 5/CMPEN 331/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:82]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

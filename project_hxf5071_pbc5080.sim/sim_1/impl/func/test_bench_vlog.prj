@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "test_bench_func_impl.v"
+verilog xil_defaultlib  "../../../../project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v"
+
+# Do not sort compile order
+nosort

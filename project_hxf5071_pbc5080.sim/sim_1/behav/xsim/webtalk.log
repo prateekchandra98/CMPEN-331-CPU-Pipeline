@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2017.3.1 (64-bit)
+# SW Build 2035080 on Fri Oct 20 14:20:01 MDT 2017
+# IP Build 2034413 on Fri Oct 20 15:56:25 MDT 2017
+# Start of session at: Thu Dec  7 20:53:00 2017
+# Process ID: 23132
+# Current directory: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Thu Dec  7 20:53:03 2017. For additional details about this file, please refer to the WebTalk help file at C:/Xilinx/Vivado/2017.3/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Thu Dec  7 20:53:03 2017...

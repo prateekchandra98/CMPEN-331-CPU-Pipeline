@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.3.1 (64-bit)
+# SW Build 2035080 on Fri Oct 20 14:20:01 MDT 2017
+# IP Build 2034413 on Fri Oct 20 15:56:25 MDT 2017
+# Start of session at: Thu Dec  7 20:30:02 2017
+# Process ID: 2140
+# Current directory: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.sim/sim_1/behav/xsim/xsim.dir/test_bench_behav/webtalk/xsim_webtalk.tcl -notrace

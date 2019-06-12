@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3.1 (64-bit)
+# SW Build 2035080 on Fri Oct 20 14:20:01 MDT 2017
+# IP Build 2034413 on Fri Oct 20 15:56:25 MDT 2017
+# Start of session at: Fri Dec  8 00:34:45 2017
+# Process ID: 22776
+# Current directory: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.runs/synth_1
+# Command line: vivado.exe -log CPU.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CPU.tcl
+# Log file: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.runs/synth_1/CPU.vds
+# Journal file: C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source CPU.tcl -notrace

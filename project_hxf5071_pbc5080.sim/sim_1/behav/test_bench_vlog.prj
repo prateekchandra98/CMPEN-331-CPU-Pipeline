@@ -1,0 +1,19 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/ALU.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/PC_adder.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/control_unit.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/emux2x1.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/instruction_module.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/mux2x1.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/register_file.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/signext_16_32.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/wmux2x1.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sources_1/imports/new/CPU.v"
+verilog xil_defaultlib  "../../../project_hxf5071_pbc5080.srcs/sim_1/imports/new/test_bench.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,31 @@
+Vivado Simulator 2017.3
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2017.3/bin/unwrapped/win64.o/xelab.exe -wto 4c973f57de7440b2bbb09770db715974 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_bench_behav xil_defaultlib.test_bench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1783] select index 32 into dataMemory is out of bounds [C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:74]
+WARNING: [VRFC 10-1783] select index 33 into dataMemory is out of bounds [C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:75]
+WARNING: [VRFC 10-1783] select index 34 into dataMemory is out of bounds [C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:76]
+WARNING: [VRFC 10-1783] select index 35 into dataMemory is out of bounds [C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:77]
+WARNING: [VRFC 10-1783] select index 36 into dataMemory is out of bounds [C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:79]
+WARNING: [VRFC 10-1783] select index 37 into dataMemory is out of bounds [C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:80]
+WARNING: [VRFC 10-1783] select index 38 into dataMemory is out of bounds [C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:81]
+WARNING: [VRFC 10-1783] select index 39 into dataMemory is out of bounds [C:/Users/prate/Desktop/project_hxf5071_pbc5080/project_hxf5071_pbc5080.srcs/sources_1/imports/new/data_mem.v:82]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.PC_adder
+Compiling module xil_defaultlib.instruction_module
+Compiling module xil_defaultlib.control_unit
+Compiling module xil_defaultlib.mux2x1
+Compiling module xil_defaultlib.register_file
+Compiling module xil_defaultlib.signext_16_32
+Compiling module xil_defaultlib.emux2x1
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.data_mem
+Compiling module xil_defaultlib.wmux2x1
+Compiling module xil_defaultlib.CPU
+Compiling module xil_defaultlib.test_bench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_bench_behav
